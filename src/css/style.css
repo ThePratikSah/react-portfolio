@@ -1,0 +1,10 @@
+.footerClass {
+  height: 50px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.custom-link {
+  text-decoration: none !important;
+}
